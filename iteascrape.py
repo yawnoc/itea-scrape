@@ -5,7 +5,7 @@
 
 Scrape ITEA Journal PDFs held at `<https://itea.org/images/journal/{year}-{month}/document.pdf>`.
 
-Licensed under "MIT No Attribution" (MIT-0).
+Licensed under "MIT No Attribution" (MIT-0), see LICENSE.
 """
 
 import os
