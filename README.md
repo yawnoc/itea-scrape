@@ -1,4 +1,4 @@
-# 2024-04-17-itea-scrape
+# itea-scrape
 
 Scraping PDFs from `site:itea.org/images/journal`.
 
